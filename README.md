@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sneaky-boa
+- 👀 I’m interested in networks, and (few) other things
+- 🌱 I’m currently learning programming, because i think it's cool
